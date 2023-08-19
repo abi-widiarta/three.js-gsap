@@ -4,7 +4,7 @@ I was interested in adding some 3D element to a website, Three.js is the stack f
 
 Currently, the 3D model is from sketchfab
 
-Work well on chrome and edge. Somehow on firefox it doesn't work and instead it tries to download the 3D model on the first load.
+Work well on chrome and edge but not responsive yet. Somehow on firefox it doesn't work and instead it tries to download the 3D model on the first load.
 
 Demo : https://threejs-gsap-build.vercel.app/
 
