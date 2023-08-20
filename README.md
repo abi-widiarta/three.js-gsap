@@ -8,5 +8,8 @@ Work well on chrome and edge but not responsive yet. Somehow on firefox it doesn
 
 Demo : https://threejs-gsap-build.vercel.app/
 
-Note : If you don't see the 3D model, it may still in process of downloading, in about a minute it should appear
+Note : 
+
+- If you don't see the 3D model, it may still in process of downloading, in about a minute it should appear
+- Planning to add preloader in the future
 
